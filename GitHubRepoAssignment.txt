@@ -1,0 +1,4 @@
+Created a remote repository on github
+Created a local folder and initialized git
+Created a readme.md file and commited
+Pushed to remot repository on github
